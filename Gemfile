@@ -73,6 +73,6 @@ group :development, :test do
 end
 
 group :producion do
-  gem "pg"
-  gem "rails_12factor"
+  gem 'pg'
+  gem 'rails_12factor'
 end
