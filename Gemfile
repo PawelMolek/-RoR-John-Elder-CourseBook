@@ -9,12 +9,6 @@ gem "rails", "~> 7.0.2", ">= 7.0.2.2"
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
-<<<<<<< HEAD
-# Use pg as the database for Active Record
-# gem "pg", "~> 1.1"
-
-=======
->>>>>>> 9a184239c0496410b2d0ab505e62b57454684e9e
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
@@ -79,10 +73,6 @@ group :development, :test do
 end
 
 group :production do
-<<<<<<< HEAD
   gem 'pg','~> 1.1'
-=======
-  gem 'pg', '0.18.4'
->>>>>>> 9a184239c0496410b2d0ab505e62b57454684e9e
   gem 'rails_12factor', '0.0.3'
 end
