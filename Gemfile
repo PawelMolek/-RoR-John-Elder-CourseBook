@@ -9,9 +9,10 @@ gem "importmap-rails"
 gem "turbo-rails"
 gem "stimulus-rails"
 gem "jbuilder"
-gem 'bootstrap-sass', '~> 3.4.1'
+gem 'bootstrap', '~> 5.1', '>= 5.1.3'
 gem 'sassc-rails', '>= 2.1.0'
 gem 'devise', '~> 4.8', '>= 4.8.1'
+gem 'jquery-rails'
 
 
 # Use Redis adapter to run Action Cable in production
