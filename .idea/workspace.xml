@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b0cb3ce-4716-4daa-b366-45c1ab786062" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/db/migrate/20220223105630_add_user_id_to_pins.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/pins_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/pins_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/pin.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/pin.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pins/_form.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pins/_form.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pins/_pin.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pins/_pin.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pins/edit.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pins/edit.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pins/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pins/index.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pins/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pins/new.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/pins/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pins/show.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/home/about.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/home/about.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/home/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/home/index.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +156,7 @@
       <workItem from="1645541939964" duration="6032000" />
       <workItem from="1645549787340" duration="139000" />
       <workItem from="1645550019007" duration="2583000" />
-      <workItem from="1645609515843" duration="5076000" />
+      <workItem from="1645609515843" duration="5409000" />
     </task>
     <servers />
   </component>
