@@ -3,17 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="1b0cb3ce-4716-4daa-b366-45c1ab786062" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/bootstraply.css.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/bootstraply.css.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/javascript/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/application.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/devise/passwords/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/devise/passwords/new.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/devise/registrations/edit.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/devise/registrations/edit.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/devise/registrations/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/devise/registrations/new.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/home/_header.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/home/_header.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pins/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pins/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/pins/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/pins/show.html.erb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +157,8 @@
       <workItem from="1645527744435" duration="6462000" />
       <workItem from="1645541939964" duration="6032000" />
       <workItem from="1645549787340" duration="139000" />
-      <workItem from="1645550019007" duration="2273000" />
+      <workItem from="1645550019007" duration="2583000" />
+      <workItem from="1645609515843" duration="2227000" />
     </task>
     <servers />
   </component>

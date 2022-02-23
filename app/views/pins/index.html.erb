@@ -1,14 +1,26 @@
-<p style="color: green"><%= notice %></p>
+<div class="card container align-content-center" >
+  <div class="card-header">
+    <h1>Pins</h1>
+  </div>
+  <div class="card-body">
 
-<h1>Pins</h1>
 
-<div id="pins">
-  <% @pins.each do |pin| %>
-    <%= render pin %>
-    <p>
-      <%= link_to "Show this pin", pin %>
-    </p>
-  <% end %>
+
+    <div id="pins">
+      <p style="color: green"><%= notice %></p>
+      <% @pins.each do |pin| %>
+        <%= render pin %>
+        <p>
+          <%= link_to "Pokaż pin", pin %>
+        </p>
+      <% end %>
+    </div>
+
+
+  </div>
+  <div class="card-footer">
+    <% if user_signed_in? %>
+        <%= link_to "Nowy pin", new_pin_path %>
+    <%end %>
+  </div>
 </div>
-
-<%= link_to "New pin", new_pin_path %>
