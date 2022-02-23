@@ -6,6 +6,9 @@
     <p style="color: green"><%= notice %></p>
 
     <%= render @pin %>
+  </div>
+  <div class="card-body">
+    <%= image_tag @pin.images  %>
 
     <div>
       <%= link_to "Powrót do pinów", pins_path %>
