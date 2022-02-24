@@ -14,10 +14,12 @@
   <div>
     <%= form.label :description, style: "display: block" %>
     <%= form.text_field :description %>
-    <%= form.label :images %>
-    <%= form.file_field :images %>
-  </div>
 
+  </div>
+  <div >
+    <%= form.label :image, style: "display: block" %>
+    <%= form.file_field :image %>
+  </div>
   <div>
 
       <%= form.submit %>

@@ -10,7 +10,7 @@ gem "turbo-rails"
 gem "stimulus-rails"
 gem "jbuilder"
 gem 'bootstrap', '~> 5.1', '>= 5.1.3'
-gem 'sassc-rails', '>= 2.1.0'
+gem 'sassc-rails', '~> 2.1', '>= 2.1.2'
 gem 'devise', '~> 4.8', '>= 4.8.1'
 gem 'jquery-rails'
 gem "image_processing", ">= 1.2"

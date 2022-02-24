@@ -7,8 +7,12 @@
 
     <div id="pins">
       <p style="color: green"><%= notice %></p>
+
       <% @pins.each do |pin| %>
+        <%= image_tag pin.image, size:"260x180" if pin.image.attached? %>
+
         <%= render pin %>
+
         <p>
           <%= link_to "Pokaż pin", pin %>
         </p>

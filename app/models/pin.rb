@@ -1,4 +1,4 @@
 class Pin < ApplicationRecord
   belongs_to :user
-  has_one_attached :images
+  has_one_attached :image
 end
